@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">todo-app-android</string>
+    <string name="todo_app">ToDo\'s 📝</string>
+    <string name="show_pwd_text">Show Password Button</string>
+    <string name="hide_pwd_text">Hide Password Button</string>
+    <string name="submit">Submit</string>
+    <string name="your_password">Your Password</string>
+    <string name="login">Login</string>
+    <string name="your_email">Your Email</string>
+    <string name="alert_title_login_failed">Login Failed</string>
+    <string name="btn_ok">OK</string>
+</resources>
